@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "total_item_count": 28,
+      "items_updated_time": "2015-05-19T18:33:43-04:00",
+      "name": "Cannes 2015",
+      "created_time": "2015-06-12T18:32:44.000Z",
+      "updated_time": "2015-06-16T14:48:43.000Z",
+      "cover_item": {
+        "url": "http://ak.picdn.net/assets/cms/59b0c89c39e0ee75777fba12a4089ddc46445cfa-shutterstock_278725967 - COVER.jpg"
+      },
+      "hero_item": {
+        "url": "http://ak.picdn.net/assets/cms/64b1ff20d3c20170f5d058542acedeb7b62a5097-shutterstock_278725967 - HERO.jpg"
+      }
+    }
+  }

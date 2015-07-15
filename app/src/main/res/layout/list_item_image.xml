@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/gallery_image_size"
+    android:layout_height="@dimen/gallery_image_size"
+    android:padding="@dimen/gallery_image_padding"
+
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/picture"
+        android:layout_width="@dimen/gallery_image_size"
+        android:layout_height="@dimen/gallery_image_size"
+        android:background="#CFD8DC"
+        android:layout_gravity="center">
+
+    </ImageView>
+</LinearLayout>
